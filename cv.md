@@ -18,4 +18,5 @@ Job experience:
 
 
 Graduated from Bauman Moscow State Technical University, specialized on Computer Science & IT Project Management.
+
 English: B1-B2 (not finished B2 course), I have an experience of working in international projects with multicultural colleagues around the world

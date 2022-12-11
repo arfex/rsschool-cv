@@ -5,7 +5,8 @@ email to novitskij.pa@gmail.com
 I'm a 33 years old  IT specialist from Russia. 
 
 Key skills: 
-1. 
+1. Project Mgmt 
+2. Communication
 
 Job experience: 
 1. Tech spec. in telecom provider phone support(position during education time)
